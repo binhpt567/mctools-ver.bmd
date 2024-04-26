@@ -9,7 +9,10 @@
 <br/>
 
 ### All Version Minecraft Bedrock has been Modified
-##### Note: the game pack has been modified by adding the number 2 to the front!  If installing Mods or Game Packs, go to folder data game "com.mojang.minecraftpe2" Applications that install Mods will not accept modified applications!
-##### * Note Vietnam: gói game đã được sửa đổi bằng cách thêm số 2 vào phía trước! Nếu cài đặt Mods hay Pack game thì hãy vào thư mục data "com.mojang.minecraftpe2" Các ứng dụng cài Mods sẽ không nhận ứng dụng đã sửa đổi!
-
-* [1.18.2_03](url)
+##### ⚠ Note: the game pack has been modified by adding the number 2 to the front!  If installing Mods or Game Packs, go to folder data game "com.mojang.minecraftpe2" Applications that install Mods will not accept modified applications!
+##### * ⚠ Note Vietnam: gói game đã được sửa đổi bằng cách thêm số 2 vào phía trước! Nếu cài đặt Mods hay Pack game thì hãy vào thư mục data "com.mojang.minecraftpe2" Các ứng dụng cài Mods sẽ không nhận ứng dụng đã sửa đổi!
+# Download Here ⬇⬇⬇
+### Click Version to download
+# Tải ở đây ⬇⬇⬇
+### Bấm vào phiên bản để tải xuống
+* [1.18.2.03](url)
